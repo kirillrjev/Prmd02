@@ -11,28 +11,27 @@ namespace Pr05
         {
             try
             {
-                // Получаем индекс выбранной строки
+                
                 int index = listBox1.SelectedIndex;
 
-                // Если ничего не выбрано
+              
                 if (index == -1)
                 {
-                    label1.Text = "Выберите строку из списка.";
+                    label1.Text = "Р’С‹Р±РµСЂРёС‚Рµ СЃС‚СЂРѕРєСѓ РёР· СЃРїРёСЃРєР°.";
                     return;
                 }
 
-                // Получаем строку
+            
                 string str = (string)listBox1.Items[index];
 
-                // Удаляем лишние пробелы и разбиваем строку на слова
                 string[] words = str.Split(new char[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
 
-                // Выводим результат
-                label1.Text = "Количество слов: " + words.Length.ToString();
+           
+                label1.Text = "РљРѕР»РёС‡РµСЃС‚РІРѕ СЃР»РѕРІ: " + words.Length.ToString();
             }
             catch (Exception ex)
             {
-                label1.Text = "Ошибка: " + ex.Message;
+                label1.Text = "РћС€РёР±РєР°: " + ex.Message;
             }
         }
 
@@ -42,3 +41,4 @@ namespace Pr05
         }
     }
 }
+
