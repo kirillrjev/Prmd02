@@ -1,0 +1,32 @@
+D:\Новая папка\Новая папка (2)\Pr07\Pr07\bin\Debug\net8.0-windows\Pr07.exe
+D:\Новая папка\Новая папка (2)\Pr07\Pr07\bin\Debug\net8.0-windows\Pr07.deps.json
+D:\Новая папка\Новая папка (2)\Pr07\Pr07\bin\Debug\net8.0-windows\Pr07.runtimeconfig.json
+D:\Новая папка\Новая папка (2)\Pr07\Pr07\bin\Debug\net8.0-windows\Pr07.dll
+D:\Новая папка\Новая папка (2)\Pr07\Pr07\bin\Debug\net8.0-windows\Pr07.pdb
+D:\Новая папка\Новая папка (2)\Pr07\Pr07\obj\Debug\net8.0-windows\Pr07.Form1.resources
+D:\Новая папка\Новая папка (2)\Pr07\Pr07\obj\Debug\net8.0-windows\Pr07.csproj.GenerateResource.cache
+D:\Новая папка\Новая папка (2)\Pr07\Pr07\obj\Debug\net8.0-windows\Pr07.GeneratedMSBuildEditorConfig.editorconfig
+D:\Новая папка\Новая папка (2)\Pr07\Pr07\obj\Debug\net8.0-windows\Pr07.AssemblyInfoInputs.cache
+D:\Новая папка\Новая папка (2)\Pr07\Pr07\obj\Debug\net8.0-windows\Pr07.AssemblyInfo.cs
+D:\Новая папка\Новая папка (2)\Pr07\Pr07\obj\Debug\net8.0-windows\Pr07.csproj.CoreCompileInputs.cache
+D:\Новая папка\Новая папка (2)\Pr07\Pr07\obj\Debug\net8.0-windows\Pr07.dll
+D:\Новая папка\Новая папка (2)\Pr07\Pr07\obj\Debug\net8.0-windows\refint\Pr07.dll
+D:\Новая папка\Новая папка (2)\Pr07\Pr07\obj\Debug\net8.0-windows\Pr07.pdb
+D:\Новая папка\Новая папка (2)\Pr07\Pr07\obj\Debug\net8.0-windows\Pr07.genruntimeconfig.cache
+D:\Новая папка\Новая папка (2)\Pr07\Pr07\obj\Debug\net8.0-windows\ref\Pr07.dll
+C:\Users\Admin\Desktop\МДК 01.02\Pr07\Вариант 17\Pr07\bin\Debug\net8.0-windows\Pr07.exe
+C:\Users\Admin\Desktop\МДК 01.02\Pr07\Вариант 17\Pr07\bin\Debug\net8.0-windows\Pr07.deps.json
+C:\Users\Admin\Desktop\МДК 01.02\Pr07\Вариант 17\Pr07\bin\Debug\net8.0-windows\Pr07.runtimeconfig.json
+C:\Users\Admin\Desktop\МДК 01.02\Pr07\Вариант 17\Pr07\bin\Debug\net8.0-windows\Pr07.dll
+C:\Users\Admin\Desktop\МДК 01.02\Pr07\Вариант 17\Pr07\bin\Debug\net8.0-windows\Pr07.pdb
+C:\Users\Admin\Desktop\МДК 01.02\Pr07\Вариант 17\Pr07\obj\Debug\net8.0-windows\Pr07.Form1.resources
+C:\Users\Admin\Desktop\МДК 01.02\Pr07\Вариант 17\Pr07\obj\Debug\net8.0-windows\Pr07.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\МДК 01.02\Pr07\Вариант 17\Pr07\obj\Debug\net8.0-windows\Pr07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\МДК 01.02\Pr07\Вариант 17\Pr07\obj\Debug\net8.0-windows\Pr07.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\МДК 01.02\Pr07\Вариант 17\Pr07\obj\Debug\net8.0-windows\Pr07.AssemblyInfo.cs
+C:\Users\Admin\Desktop\МДК 01.02\Pr07\Вариант 17\Pr07\obj\Debug\net8.0-windows\Pr07.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\МДК 01.02\Pr07\Вариант 17\Pr07\obj\Debug\net8.0-windows\Pr07.dll
+C:\Users\Admin\Desktop\МДК 01.02\Pr07\Вариант 17\Pr07\obj\Debug\net8.0-windows\refint\Pr07.dll
+C:\Users\Admin\Desktop\МДК 01.02\Pr07\Вариант 17\Pr07\obj\Debug\net8.0-windows\Pr07.pdb
+C:\Users\Admin\Desktop\МДК 01.02\Pr07\Вариант 17\Pr07\obj\Debug\net8.0-windows\Pr07.genruntimeconfig.cache
+C:\Users\Admin\Desktop\МДК 01.02\Pr07\Вариант 17\Pr07\obj\Debug\net8.0-windows\ref\Pr07.dll
