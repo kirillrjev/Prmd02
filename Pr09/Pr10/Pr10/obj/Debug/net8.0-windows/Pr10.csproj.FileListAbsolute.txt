@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\МДК 01.02\Pr09\Pr10\Pr10\obj\Debug\net8.0-windows\WindowsFormsApplication1.Form1.resources
+C:\Users\Admin\Desktop\МДК 01.02\Pr09\Pr10\Pr10\obj\Debug\net8.0-windows\Pr10.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\МДК 01.02\Pr09\Pr10\Pr10\obj\Debug\net8.0-windows\Pr10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\МДК 01.02\Pr09\Pr10\Pr10\obj\Debug\net8.0-windows\Pr10.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\МДК 01.02\Pr09\Pr10\Pr10\obj\Debug\net8.0-windows\Pr10.AssemblyInfo.cs
+C:\Users\Admin\Desktop\МДК 01.02\Pr09\Pr10\Pr10\obj\Debug\net8.0-windows\Pr10.csproj.CoreCompileInputs.cache

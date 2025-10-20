@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\МДК 01.02\Pr09\Pr09\Pr09\obj\Debug\net8.0-windows\Pr09.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\МДК 01.02\Pr09\Pr09\Pr09\obj\Debug\net8.0-windows\Pr09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\МДК 01.02\Pr09\Pr09\Pr09\obj\Debug\net8.0-windows\Pr09.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\МДК 01.02\Pr09\Pr09\Pr09\obj\Debug\net8.0-windows\Pr09.AssemblyInfo.cs
+C:\Users\Admin\Desktop\МДК 01.02\Pr09\Pr09\Pr09\obj\Debug\net8.0-windows\Pr09.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\МДК 01.02\Pr09\pr09\pr09\bin\Debug\net8.0-windows\pr09.exe
+C:\Users\Admin\Desktop\МДК 01.02\Pr09\pr09\pr09\bin\Debug\net8.0-windows\pr09.deps.json
+C:\Users\Admin\Desktop\МДК 01.02\Pr09\pr09\pr09\bin\Debug\net8.0-windows\pr09.runtimeconfig.json
+C:\Users\Admin\Desktop\МДК 01.02\Pr09\pr09\pr09\bin\Debug\net8.0-windows\pr09.dll
+C:\Users\Admin\Desktop\МДК 01.02\Pr09\pr09\pr09\bin\Debug\net8.0-windows\pr09.pdb
+C:\Users\Admin\Desktop\МДК 01.02\Pr09\pr09\pr09\obj\Debug\net8.0-windows\pr09.Form1.resources
+C:\Users\Admin\Desktop\МДК 01.02\Pr09\pr09\pr09\obj\Debug\net8.0-windows\pr09.dll
+C:\Users\Admin\Desktop\МДК 01.02\Pr09\pr09\pr09\obj\Debug\net8.0-windows\refint\pr09.dll
+C:\Users\Admin\Desktop\МДК 01.02\Pr09\pr09\pr09\obj\Debug\net8.0-windows\pr09.pdb
+C:\Users\Admin\Desktop\МДК 01.02\Pr09\pr09\pr09\obj\Debug\net8.0-windows\pr09.genruntimeconfig.cache
+C:\Users\Admin\Desktop\МДК 01.02\Pr09\pr09\pr09\obj\Debug\net8.0-windows\ref\pr09.dll
