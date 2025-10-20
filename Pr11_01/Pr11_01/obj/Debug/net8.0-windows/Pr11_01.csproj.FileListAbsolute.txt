@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\Домашния задания\МДК 01.02\Pr11_01\Pr11_01\bin\Debug\net8.0-windows\Pr11_01.exe
+C:\Users\Admin\Desktop\Домашния задания\МДК 01.02\Pr11_01\Pr11_01\bin\Debug\net8.0-windows\Pr11_01.deps.json
+C:\Users\Admin\Desktop\Домашния задания\МДК 01.02\Pr11_01\Pr11_01\bin\Debug\net8.0-windows\Pr11_01.runtimeconfig.json
+C:\Users\Admin\Desktop\Домашния задания\МДК 01.02\Pr11_01\Pr11_01\bin\Debug\net8.0-windows\Pr11_01.dll
+C:\Users\Admin\Desktop\Домашния задания\МДК 01.02\Pr11_01\Pr11_01\bin\Debug\net8.0-windows\Pr11_01.pdb
+C:\Users\Admin\Desktop\Домашния задания\МДК 01.02\Pr11_01\Pr11_01\obj\Debug\net8.0-windows\Pr11_01.Form1.resources
+C:\Users\Admin\Desktop\Домашния задания\МДК 01.02\Pr11_01\Pr11_01\obj\Debug\net8.0-windows\Pr11_01.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Домашния задания\МДК 01.02\Pr11_01\Pr11_01\obj\Debug\net8.0-windows\Pr11_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Домашния задания\МДК 01.02\Pr11_01\Pr11_01\obj\Debug\net8.0-windows\Pr11_01.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Домашния задания\МДК 01.02\Pr11_01\Pr11_01\obj\Debug\net8.0-windows\Pr11_01.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Домашния задания\МДК 01.02\Pr11_01\Pr11_01\obj\Debug\net8.0-windows\Pr11_01.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Домашния задания\МДК 01.02\Pr11_01\Pr11_01\obj\Debug\net8.0-windows\Pr11_01.dll
+C:\Users\Admin\Desktop\Домашния задания\МДК 01.02\Pr11_01\Pr11_01\obj\Debug\net8.0-windows\refint\Pr11_01.dll
+C:\Users\Admin\Desktop\Домашния задания\МДК 01.02\Pr11_01\Pr11_01\obj\Debug\net8.0-windows\Pr11_01.pdb
+C:\Users\Admin\Desktop\Домашния задания\МДК 01.02\Pr11_01\Pr11_01\obj\Debug\net8.0-windows\Pr11_01.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Домашния задания\МДК 01.02\Pr11_01\Pr11_01\obj\Debug\net8.0-windows\ref\Pr11_01.dll
